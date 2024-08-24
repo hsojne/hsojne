@@ -8,7 +8,7 @@
 |:---:|:---:|:---:|
 |Paper|`2024-07-05` ~ |-|
 |KRX|`2024-08-14` ~ |-|
-|Dev Course|`2024-09-19-` ~ `2024-11-30`|-|
+|Dev Course|`2024-09-19-` ~ `2024-11-30`|[Repository](https://github.com/hsojne/DevCourse/tree/main)|
 
 
 #
