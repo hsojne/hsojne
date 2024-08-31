@@ -13,7 +13,7 @@
 | Project | Period | Repository |
 |:---:|:---:|:---:|
 |Paper|`2024-07-05` ~ |[Repository](https://github.com/hsojne/Paper/tree/main)|
-|KRX|`2024-08-14` ~ |-|
+|KRX|`2024-08-14` ~ |[Repository](https://github.com/hsojne/KRX/tree/main)|
 |Dev Course|`2024-09-19-` ~ `2024-11-30`|[Repository](https://github.com/hsojne/DevCourse/tree/main)|
 
 
