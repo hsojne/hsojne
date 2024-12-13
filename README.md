@@ -3,7 +3,7 @@
 
  <div align="center">
 
-[![Video Label](http://img.youtube.com/vi/vXOLRiXdcoM/0.jpg)]([https://youtu.be/vXOLRiXdcoM](https://www.youtube.com/watch?v=G6kU9KWnpbE&list=LL&index=4))
+[![Video Label](http://img.youtube.com/vi/vXOLRiXdcoM/0.jpg)]([https://youtu.be/vXOLRiXdcoM])
 
 </div>
 
