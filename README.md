@@ -13,8 +13,9 @@
 ## プロジェクト | Project
 | Project | Period | Repository |
 |:---:|:---:|:---:|
-|Paper|`2024-07-05` ~ |[Repository](https://github.com/hsojne/Paper/tree/main)|
-|KRX|`2024-08-14` ~ |[Repository](https://github.com/hsojne/KRX/tree/main)|
+|Paper|`2024-07-05` ~ `2024-12-31`|[Repository](https://github.com/hsojne/Paper/tree/main)|
+|KRX|`2024-08-14` ~ `2025-02-20`|[Repository](https://github.com/hsojne/KRX/tree/main)|
+|EXPO|`2025-04-10`~|
 
 
 #
