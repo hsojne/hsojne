@@ -1,5 +1,4 @@
-# RE:  RE:　[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhsojne%2Fhsojne&count_bg=%23433186&title_bg=%23192454&icon=deezer.svg&icon_color=%23451717&title=%3A%3A&edge_flat=false)](https://hits.seeyoufarm.com)
-
+# ループ:　[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhsojne%2Fhsojne&count_bg=%23433186&title_bg=%23192454&icon=http%3A%2F%2Fgoogleusercontent.com%2Fyoutube.com%2F0&icon_color=%23451717&title=%3A%3A&edge_flat=false)](https://hits.seeyoufarm.com)
 
  <div align="center">
 
